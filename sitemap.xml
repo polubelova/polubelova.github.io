@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://polubelova.github.io/</loc>
-    <lastmod>2019-06-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://polubelova.github.io/authors/antoine-delignat-lavaud/</loc>
     <lastmod>2019-06-26T00:00:00+00:00</lastmod>
   </url>
@@ -74,6 +69,11 @@
   
   <url>
     <loc>https://polubelova.github.io/authors/marina-polubelova/</loc>
+    <lastmod>2019-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://polubelova.github.io/</loc>
     <lastmod>2019-06-26T00:00:00+00:00</lastmod>
   </url>
   
